@@ -15,6 +15,10 @@ h1, h2, h3 {
 	text-align: center;
 }
 
+link {
+	color: rgb(221, 160, 221);
+}
+
 ul {
 	list-style-position: inside;
 	text-align: left;
@@ -32,12 +36,12 @@ body {
 }
 
 /* components */
-footer p {
+footer p, header p {
 	font-size: 100%;
 	text-align: center;
 }
 
-footer nav {
+footer nav, header nav {
 	font-size: 100%;
 	text-align: center;
 }
