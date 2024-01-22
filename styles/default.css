@@ -1,16 +1,18 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 
 /* bg color is indigo, base text is lavender blush, special text is plum */
 
 /* text */
 html {
 	background-color: rgb(75, 0, 130);
-	font-family: 'EB Garamond', serif;
+	font-family: "Playfair Display", serif;
 	color: rgb(255, 240, 245);
 }
 
 h1, h2, h3 {
+	font-family: "Prata", serif;
 	color: rgb(221, 160, 221);
 	text-align: center;
 }
@@ -50,4 +52,11 @@ figure img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.box {
+	background-color: rgb(147, 112, 219);
+	font-size: 100%;
+	margin-left: 25%;
+	margin-right: 25%;
 }
