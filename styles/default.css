@@ -19,11 +19,15 @@ a:link, a:visited {
 	color: rgb(216, 191, 216);
 }
 
-nav a:link, nav a:visited {
+a:link, a:visited {
 	text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
+	text-decoration: underline;
+}
+
+main a {
 	text-decoration: underline;
 }
 
