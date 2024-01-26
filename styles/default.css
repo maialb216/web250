@@ -2,8 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 
-/* bg color is indigo, base text is lavender blush, special text is plum */
-
 /* text */
 html {
 	background-color: rgb(75, 0, 130);
@@ -13,12 +11,16 @@ html {
 
 h1, h2, h3 {
 	font-family: "Prata", serif;
-	color: rgb(221, 160, 221);
+	color: rgb(216, 191, 216);
 	text-align: center;
 }
 
 a:link, a:visited {
-	color: rgb(221, 160, 221);
+	color: rgb(216, 191, 216);
+}
+
+nav a:link, nav a:visited {
+	text-decoration: none;
 }
 
 ul {
