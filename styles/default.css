@@ -6,17 +6,18 @@
 html {
 	background-color: rgb(216, 191, 216);
 	font-family: "Playfair Display", serif;
+	font-size: 110%;
 	color: rgb(75, 0, 130);
 }
 
 h1, h2, h3 {
 	font-family: "Prata", serif;
-	color: rgb(147, 112, 219);
+	color: rgb(138, 43, 226);
 	text-align: center;
 }
 
 a:link, a:visited {
-	color: rgb(147, 112, 219);
+	color: rgb(138, 43, 226);
 	text-decoration: none;
 }
 
@@ -57,7 +58,6 @@ figure img {
 
 main {
 	background-color: rgb(230, 230, 250);
-	font-size: 110%;
 	margin-left: 25%;
 	margin-right: 25%;
 }
