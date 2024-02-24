@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 
 a:link, a:visited {
-	color: rgb(123, 104, 238);
+	color: rgb(186, 85, 211);
 	text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ figure img {
 	margin-right: auto;
 }
 
-.box {
+main {
 	background-color: rgb(147, 112, 219);
 	font-size: 100%;
 	margin-left: 25%;
