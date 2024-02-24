@@ -4,19 +4,19 @@
 
 /* text */
 html {
-	background-color: rgb(72, 61, 139);
+	background-color: rgb(216, 191, 216);
 	font-family: "Playfair Display", serif;
-	color: rgb(255, 240, 245);
+	color: rgb(75, 0, 130);
 }
 
 h1, h2, h3 {
 	font-family: "Prata", serif;
-	color: rgb(123, 104, 238);
+	color: rgb(147, 112, 219);
 	text-align: center;
 }
 
 a:link, a:visited {
-	color: rgb(123, 104, 238);
+	color: rgb(147, 112, 219);
 	text-decoration: none;
 }
 
@@ -56,8 +56,8 @@ figure img {
 }
 
 main {
-	background-color: rgb(75, 0, 130);
-	font-size: 100%;
+	background-color: rgb(230, 230, 250);
+	font-size: 110%;
 	margin-left: 25%;
 	margin-right: 25%;
 }
