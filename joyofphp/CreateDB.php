@@ -4,7 +4,11 @@
  * Demonstrates how to create a database, create a table, and insert records.
  */
 
-$mysqli = new mysqli('mySQL', 'root', 'verysecret' );
+$servername = "sql201.infinityfree.com";
+$username = "if0_36349069";
+$password = "onemillionfrogs";
+
+$mysqli = new mysqli('$servername', '$username', '$password' );
 
 
    if (!$mysqli) { 
